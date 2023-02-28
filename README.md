@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo Patika.dev C# eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html ve bir adet de style.css deneme dosyaları barındırıyor.
+Bu repo Patika.dev Java ile Backend Web Development eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html ve bir adet de style.css deneme dosyaları barındırıyor.
 ## Installation
 Öncelikle projeyi clonelayın.
 `git clone https://github.com/hazarlab/kodluyoruzilkrepo.git`
